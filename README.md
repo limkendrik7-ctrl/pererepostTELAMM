@@ -117,5 +117,3 @@ Telegram API не позволяет переносить:
 Это ограничение Telegram, не скрипта.
 
 ⭐ Если проект был полезен — поставь звезду!
-git clone https://github.com/USERNAME/telegram-reposter.git
-cd telegram-reposter
